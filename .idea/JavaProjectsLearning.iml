@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Projects/CalculatorApp/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/CalculatorApp/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Projects/Clock/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projects/Clock/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Projects/StopWatch/src/main/java" isTestSource="false" />
