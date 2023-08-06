@@ -9,8 +9,13 @@
       <sourceFolder url="file://$MODULE_DIR$/Projects/Clock/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Projects/StopWatch/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projects/StopWatch/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/LoginSystem/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/LoginSystem/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="72733f2a-182c-44ec-930a-fd809226f1b0" />
   </component>
 </module>
